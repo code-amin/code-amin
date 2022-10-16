@@ -13,11 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Amin</h1>
-<h3 align="center">A passionate fullstack web developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working on **GoFinance (my final project)**
+- 🔭 I’m currently working on **GoFinance**
 
 - 🌱 I’m currently learning **some more React ⚛**
+
+- 🌎 I'm based in **Montreal, Quebec**
+
 
 <p align="left">
 </p>
