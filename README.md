@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Amin</h1>
 <h3 align="center">Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working on ** A Personal Project**
+- 🔭 I’m currently working on **A Personal Project**
 
 - 🌱 I’m currently learning **some more React ⚛**
 
